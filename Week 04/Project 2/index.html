@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week-4 p-2</title>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+        body{
+            padding: 27px 0 0 80px;
+        }
+        nav{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        nav ul{
+            display: flex;
+            margin-right: 120px;
+        }
+        nav li{
+            margin: 0 25px;
+            font-size: 20px;
+            font-weight: 600;
+            list-style: none;
+            
+        }
+        .logo img{
+            width: 170px;
+        }
+        button{
+            background-color: rgba(70, 159, 70, 0.963);
+            color: white;
+            font-weight: 600;
+            font-size: 30px;
+            padding: 20px 36px;
+            border-radius: 35px;
+            border: none;
+        }
+        main{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        #yellowBox{
+            position: absolute;
+            z-index: -1;
+            width: 430px;
+            top: 200px;
+            right: 0;
+        }
+        #greenBox{
+            position: absolute;
+            z-index: -2;
+            width: 515px;
+            top: 157px;
+            right: 10px;
+        }
+        #doctor{
+            width: 480px;
+        }
+        #mouse{
+            position: absolute;
+            bottom: 46px;
+            left: 50%;
+        }
+        #stethoscope{
+            position: absolute;
+            top: 70px;
+            left: 290px;
+            width: 683px;
+            margin-bottom: -15px;
+        }
+        #bottom-angle{
+            position: relative;
+            left: 290px;
+        }
+        h1{
+            margin-top: 15px;
+            font-size: 80px;
+        }
+        p{
+            font-size: 22px;
+            color: gray;
+            padding: 23px 0 29px 2px;
+            line-height: 1.5;
+        }
+        li:first-child{
+            color: rgb(85, 186, 85);
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="logo">
+            <img src="./images/logo.png" alt="">
+        </div>
+        <div class="menu">
+            <ul>
+                <li>Home</li>
+                <li>About Us</li>
+                <li>Our Services</li>
+                <li>Contact us</li>
+            </ul>
+        </div>
+    </nav>
+    <main>
+        <div class="main-left">
+            <img id="top-angle" src="./images/topAngle.png" alt="">
+            <h1>Complete Health <br>Care Solutions for <br>Everyone</h1>
+            <p>We're always available for our Paitents with emergen problems. You can <br> easily reach us 24/7. We focused on highest quality.</p>
+            <button>Make Appointment</button>
+            <img id="bottom-angle" src="./images/bottomAngle.png" alt="">
+            <img id="mouse" src="./images/mouse.png" alt="">
+            <img id="stethoscope" src="./images/stethoscope.png" alt="">
+
+        </div>
+        <div class="main-right">
+            <img id="greenBox" src="./images/greenBox.png" alt="">
+            <img id="yellowBox" src="./images/yellowBox.png" alt="">
+            <img id="doctor" src="./images/doctor.png" alt="">
+        </div>
+    </main>
+</body>
+</html>
