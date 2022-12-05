@@ -2,4 +2,5 @@
 
 ## Project 1 : [Website](https://swapnil-week3-project1.netlify.app/ "Project 1 preview on netlify")
 
-Output : ![Preview Project 1](./Project 01/output.png)
+Output  ![Preview Project 1](https://github.com/swapnilJain1/HTML-CSS-practice/blob/main/Week%2003/Project%2001/output.png?raw=true)
+
