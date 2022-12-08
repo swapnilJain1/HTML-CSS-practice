@@ -1,4 +1,4 @@
-# Projects modified using vanilla CSS
+# Projects created with Vanilla CSS
 
 ## Project 1 : [Website](https://swapnil-week4-project1.netlify.app/ "Project 1 preview on netlify")
 Preview  ![Preview Project 1](https://github.com/swapnilJain1/HTML-CSS-practice/blob/main/Week%2004/Project%201/output.png?raw=true)
