@@ -11,5 +11,5 @@ Preview  ![Preview Project 2](https://github.com/swapnilJain1/HTML-CSS-practice/
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-## Project 3 : [Website](https://swapnil-week3-project3.netlify.app/ "Project 3 preview on netlify")
+## Project 3 : [Website](https://swapnil-week4-project3.netlify.app/ "Project 3 preview on netlify")
 Preview  ![Preview Project 3](https://i.postimg.cc/x8Bs9cDP/Screenshot-20221208-103012.png)
